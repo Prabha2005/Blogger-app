@@ -62,4 +62,3 @@ src/
 ## 👨‍💻 Developed By
 
 **Lakshmi Prabha V**
--build-fails-to-minify)
